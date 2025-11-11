@@ -67,8 +67,6 @@ The setup process will include:
 
 Follow the on-screen instructions to proceed.
 
-![oshw2 demo fast](https://github.com/smsanchez1/Images/blob/main/metaquest.jpg?raw=true)
-
 ---
 
 ## **5. Pairing the Headset with the Meta Quest App**
@@ -103,8 +101,6 @@ Continue configuration inside the headset:
 4. (Optional) Activate **hand tracking** features if supported.
 
    * Meta Quest 3 provides enhanced hand tracking by default.
-
-![oshw2 demo fast](https://github.com/smsanchez1/Images/blob/main/metaquest.jpg?raw=true)
 
 ---
 
