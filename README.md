@@ -24,7 +24,7 @@ Ensure the following components are available before beginning the setup:
 3. Select **Install** or **Download**.
 4. Once installed, launch the **Meta Horizont App** application.
 
-![oshw2 demo fast](https://github.com/smsanchez1/Images/blob/main/metaquest.jpg?raw=true)
+![oshw2 demo fast](https://github.com/smsanchez1/Images/blob/main/metastoreg.jpg?raw=true)
 
 ---
 
@@ -47,7 +47,7 @@ Ensure the following components are available before beginning the setup:
 
 If access to **ADT account** is required, contact the designated system administrator.
 
-![oshw2 demo fast](https://github.com/smsanchez1/Images/blob/main/metaquest.jpg?raw=true)
+![oshw2 demo fast](https://github.com/smsanchez1/Images/blob/main/metaapp.jpg?raw=true)
 
 ---
 
