@@ -1,0 +1,1 @@
+pandoc README.md -o pdfs/output.pdf -V geometry:margin=4cm -V fontsize=12pt -V linestretch=1.5 -f markdown-implicit_figures
