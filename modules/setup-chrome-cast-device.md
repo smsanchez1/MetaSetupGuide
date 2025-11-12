@@ -11,3 +11,5 @@
    * Connect Chromecast to your **Wi-Fi** network.
 6. Wait for the device to update and complete setup.
 7. Once done, your TV will show the Chromecast home screen.
+
+![ Setup Chromecast ](https://github.com/smsanchez1/MetaSetupGuide/blob/main/srcs/img/chrome-cast-setup.png?raw=true)

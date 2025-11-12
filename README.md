@@ -27,6 +27,8 @@ Before starting, make sure that **all devices are connected to the same Wi-Fi ne
 6. Wait for the device to update and complete setup.
 7. Once done, your TV will show the Chromecast home screen.
 
+![ Setup Chromecast ](https://github.com/smsanchez1/MetaSetupGuide/blob/main/srcs/img/chrome-cast-setup.png?raw=true)
+
 ---
 
 ### **Cast to a TV using Google Chromecast**
@@ -49,6 +51,8 @@ Before starting, make sure that **all devices are connected to the same Wi-Fi ne
 **To stop casting**
 
 * Open **Quick Settings → Cast → Stop Casting.**
+
+![ Cast to tv ](https://github.com/smsanchez1/MetaSetupGuide/blob/main/srcs/img/cast-to-tv.jpg?raw=true)
 
 ---
 

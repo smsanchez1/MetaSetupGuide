@@ -18,3 +18,5 @@
 **To stop casting**
 
 * Open **Quick Settings → Cast → Stop Casting.**
+
+![ Cast to tv ](https://github.com/smsanchez1/MetaSetupGuide/blob/main/srcs/img/cast-to-tv.jpg?raw=true)
